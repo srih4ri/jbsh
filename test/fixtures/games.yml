@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  location: MyText
+  notes: MyText
+  kick_off_at: 2019-02-03 01:42:52
+  game: MyString
+  host: MyString
+
+two:
+  name: MyString
+  location: MyText
+  notes: MyText
+  kick_off_at: 2019-02-03 01:42:52
+  game: MyString
+  host: MyString
